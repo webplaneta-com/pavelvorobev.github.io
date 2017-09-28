@@ -10,5 +10,6 @@
 
 [Урок 6.1](https://pavelvorobev.github.io/lesson_6.1/) и [Урок 6.2](https://pavelvorobev.github.io/lesson_6.2/) - позиционирование
 
+[Урок 7](https://pavelvorobev.github.io/lesson_7/) - сайт на чистом html и css
 
 
