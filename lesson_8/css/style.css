@@ -1,0 +1,20 @@
+body {
+	font-size: 18px;
+	font-family: Arial, no-serif;
+}
+
+.header {
+	font-size: 36px;
+	margin-top: 140px;
+	text-transform: uppercase;
+}
+
+.row {
+	margin-top: 140px;
+}
+
+img {
+	display: inline-block;
+		height: 140px;
+	}
+
