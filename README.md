@@ -12,4 +12,6 @@
 
 [Урок 7](https://pavelvorobev.github.io/lesson_7/) - сайт на чистом html и css
 
+[Урок 8](https://pavelvorobev.github.io/lesson_8/) - знакомство с bootstrap
+
 
