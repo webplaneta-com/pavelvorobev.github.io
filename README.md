@@ -14,4 +14,8 @@
 
 [Урок 8](https://pavelvorobev.github.io/lesson_8/) - знакомство с bootstrap
 
+[Урок 9](https://pavelvorobev.github.io/lesson_9/) - сайт из урока 7 на bootstrap
+
+[Урок 10](https://pavelvorobev.github.io/lesson_10/) - LESS
+
 
