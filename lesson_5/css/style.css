@@ -1,0 +1,43 @@
+h1, h2, h3 {
+	text-align: center;
+}
+
+h1, h2 {
+text-transform: uppercase;
+}
+
+.center {
+	text-align: center;
+}
+
+span.bold {
+	font-weight: bold;
+}
+
+span.line-through {
+	text-decoration: line-through;
+}
+
+span.italic {
+	font-style: italic;
+}
+
+span.underline {
+	text-decoration: underline;
+}
+
+.text {
+	border: 1px solid #b08c50;
+	background-color: rgba(221, 195, 151, 0.4);
+}
+
+.header {
+	background-color: #f5dfbb;
+}
+
+.brown {
+	color: #533607;
+}
+p {
+	font-size: 18px;
+}
