@@ -16,8 +16,6 @@
 
 [Урок 9](https://pavelvorobev.github.io/lesson_9/) - сайт из урока 7 на bootstrap
 
-[Урок 10](https://pavelvorobev.github.io/lesson_10/) - LESS
-
 [Урок 13](https://pavelvorobev.github.io/lesson_13/) - Pixel Perfect
 
 
