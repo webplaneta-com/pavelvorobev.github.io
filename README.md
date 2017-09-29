@@ -18,4 +18,6 @@
 
 [Урок 10](https://pavelvorobev.github.io/lesson_10/) - LESS
 
+[Урок 13](https://pavelvorobev.github.io/lesson_13/ - Pixel Perfect
+
 
