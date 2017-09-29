@@ -5,7 +5,10 @@ background-image: url("../img/bg.jpg");
 }
 
 .form {
-	transform: translateX(150%);
+	left: 50%;
+	margin-left: -160px;
+	position: absolute;
+	/*transform: translateY(150%);*/
 /*transform: translate(50%, 50%);*/
 background-color: white;
 	z-index:1;
