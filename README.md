@@ -18,4 +18,6 @@
 
 [Урок 13](https://pavelvorobev.github.io/lesson_13/) - Pixel Perfect
 
+[Практика. Часть1](https://pavelvorobev.github.io/practice_1/) - Вёрстка шапки сайта
+
 
