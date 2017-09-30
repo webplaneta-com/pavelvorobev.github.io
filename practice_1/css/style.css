@@ -1,0 +1,44 @@
+/*Colors*/
+/* Basic settings */
+html {
+  font-size: 10px;
+}
+.button {
+  padding: 1rem 3rem;
+  background: #f9b002;
+  color: #ffffff;
+  border-radius: 8px;
+  text-transform: uppercase;
+  border: none;
+  font-family: "Proxima Nova", no-serif;
+  vertical-align: middle;
+  /*font-weight: */
+}
+/* Typografy*/
+section {
+  padding: 10rem 0;
+}
+/* main */
+main {
+  padding: 3rem 0;
+}
+.phone-link {
+  display: inline-block;
+  color: #292929;
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 7rem;
+  height: 7rem;
+}
+.header {
+  height: 7rem;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap-block {
+  display: table-cell;
+  vertical-align: middle;
+}
