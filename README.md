@@ -20,7 +20,7 @@
 
 [Урок 13](https://pavelvorobev.github.io/lesson_13/) - Pixel Perfect
 
-[Урок 14](https://pavelvorobev.github.io/lesson_14/) Подключение шрифтов
+[Урок 14](https://pavelvorobev.github.io/lesson_14/) - Подключение шрифтов
 
 ## Практика
 
