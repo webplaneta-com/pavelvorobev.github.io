@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster|Open+Sans&subset=cyrillic');
+
+@font-face {
+    font-family: 'LatoRegular';
+    src: url('../fonts/LatoRegular.eot');
+    src: url('../fonts/LatoRegular.eot') format('embedded-opentype'),
+         url('../fonts/LatoRegular.woff2') format('woff2'),
+         url('../fonts/LatoRegular.woff') format('woff'),
+         url('../fonts/LatoRegular.ttf') format('truetype'),
+         url('../fonts/LatoRegular.svg#LatoRegular') format('svg');
+}
+@font-face {
+    font-family: 'BebasRegular';
+    src: url('../fonts/BebasRegular.eot');
+    src: url('../fonts/BebasRegular.eot') format('embedded-opentype'),
+         url('../fonts/BebasRegular.woff2') format('woff2'),
+         url('../fonts/BebasRegular.woff') format('woff'),
+         url('../fonts/BebasRegular.ttf') format('truetype'),
+         url('../fonts/BebasRegular.svg#BebasRegular') format('svg');
+}
+
+
+.font-1 {
+	font-family: 'Open Sans';
+}
+.font-2 {
+	font-family: 'BebasRegular';
+}
+.font-3 {
+	font-family: 'LatoRegular';
+}
+.font-4 {
+	font-family: 'Lobster';
+}
+
+.text-box{
+	padding-top: 2rem;
+}
+.result {
+	margin-bottom: 0;
+	margin-top: 3rem;
+}
+.fonts {
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+small {
+	font-size: 1.3rem;
+}
