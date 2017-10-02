@@ -4,7 +4,7 @@
 
 Мои домашние задания
 
-##Уроки
+## Уроки
 
 [Урок 4](https://pavelvorobev.github.io/lesson_4/) - Мини-книга на html
 
@@ -22,7 +22,7 @@
 
 [Урок 14](https://pavelvorobev.github.io/lesson_14/) Подключение шрифтов
 
-##Практика
+## Практика
 
 [Практика. Часть1](https://pavelvorobev.github.io/practice_1/) - Вёрстка шапки сайта
 
