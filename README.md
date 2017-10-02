@@ -4,8 +4,6 @@
 
 [Мой репозиторий](https://github.com/pavelvorobev/pavelvorobev.github.io)
 
-Мои домашние задания
-
 ## Уроки
 
 [Урок 4](https://pavelvorobev.github.io/lesson_4/) - Мини-книга на html
