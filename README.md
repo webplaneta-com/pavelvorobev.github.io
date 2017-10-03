@@ -28,6 +28,7 @@
 
 [Практика. Часть1](https://pavelvorobev.github.io/practice_1/) - Вёрстка шапки сайта
 
-[Практика. Часть2](https://pavelvorobev.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана.
+[Практика. Часть2](https://pavelvorobev.github.io/practice_2/) - Подключение шрифтов. Верстка первого экрана
 
+[Практика. Часть3](https://pavelvorobev.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана
 
