@@ -22,6 +22,8 @@
 
 [Урок 14](https://pavelvorobev.github.io/lesson_14/) - Подключение шрифтов
 
+[Урок 15](https://pavelvorobev.github.io/lesson_15/) - Эффекты при наведении
+
 ## Практика
 
 [Практика. Часть1](https://pavelvorobev.github.io/practice_1/) - Вёрстка шапки сайта
